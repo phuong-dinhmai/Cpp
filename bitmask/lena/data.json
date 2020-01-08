@@ -1,0 +1,10 @@
+{
+    "CHECKER": true,
+    "CHECKER_FILE": "checker",
+    "INPUT_MATCH": "in$",
+    "MEMLIMIT": 262144,
+    "OUTPUT_MATCH": "out",
+    "SCORE": 100,
+    "SCORE_TYPE": "oi",
+    "TIMEOUT": 2000
+}

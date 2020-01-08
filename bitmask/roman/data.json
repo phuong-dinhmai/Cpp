@@ -1,0 +1,9 @@
+{
+    "CHECKER": false,
+    "INPUT_MATCH": "in$",
+    "MEMLIMIT": 262144,
+    "OUTPUT_MATCH": "out",
+    "SCORE": 100,
+    "SCORE_TYPE": "oi",
+    "TIMEOUT": 1000
+}
